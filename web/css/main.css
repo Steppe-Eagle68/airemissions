@@ -1,0 +1,8 @@
+.fuels-form .form-horizontal .form-group>label.text-left,
+.fuel2-burnig-form .form-horizontal .form-group>label.text-left{
+  text-align: left !important;
+  padding-left: 33px;
+}
+.language-picker{
+  padding-top: 15px;
+}
